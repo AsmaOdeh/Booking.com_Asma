@@ -1,0 +1,5 @@
+C:\Users\Asma.Odeh\source\repos\Booking.com_Alpha\Booking.com_Alpha\obj\Debug\netcoreapp3.1\Booking.com_Alpha.csproj.AssemblyReference.cache
+C:\Users\Asma.Odeh\source\repos\Booking.com_Alpha\Booking.com_Alpha\obj\Debug\netcoreapp3.1\Booking.com_Alpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asma.Odeh\source\repos\Booking.com_Alpha\Booking.com_Alpha\obj\Debug\netcoreapp3.1\Booking.com_Alpha.AssemblyInfoInputs.cache
+C:\Users\Asma.Odeh\source\repos\Booking.com_Alpha\Booking.com_Alpha\obj\Debug\netcoreapp3.1\Booking.com_Alpha.AssemblyInfo.cs
+C:\Users\Asma.Odeh\source\repos\Booking.com_Alpha\Booking.com_Alpha\obj\Debug\netcoreapp3.1\Booking.com_Alpha.csproj.CoreCompileInputs.cache
